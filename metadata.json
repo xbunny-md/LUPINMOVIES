@@ -1,0 +1,8 @@
+{
+  "name": "LUPIN MOVIES",
+  "description": "Premium dark glassmorphic cinema, anime, live TV, sports, and novel streaming platform powered by FRAMEX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
